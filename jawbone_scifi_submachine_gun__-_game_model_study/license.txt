@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jawbone SciFi submachine gun  - game model study
+* source:	https://sketchfab.com/3d-models/jawbone-scifi-submachine-gun-game-model-study-055812a749ec4bf38e96f53923b51024
+* author:	ViniRock (https://sketchfab.com/ViniciusRocha)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jawbone SciFi submachine gun  - game model study" (https://sketchfab.com/3d-models/jawbone-scifi-submachine-gun-game-model-study-055812a749ec4bf38e96f53923b51024) by ViniRock (https://sketchfab.com/ViniciusRocha) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
